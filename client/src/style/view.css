@@ -1,0 +1,27 @@
+.Appp{
+    width: 1230px;
+    padding-top: 2%;
+     /* display: flex; */
+    justify-content: center;
+    /* padding-left: 30px; */
+    margin-left: 10%;
+    background-color: rgb(134, 129, 129);
+  }
+    
+  table ,td,th{
+    border: 2px solid forestgreen;
+    width: 1230px;
+    height: auto;
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+  }
+    
+  td {
+    text-align: center;
+    height: auto;
+    width: auto;
+  }

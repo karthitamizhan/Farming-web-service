@@ -1,0 +1,27 @@
+.Apps {
+    width: 1230px;
+    padding-top: 2%;
+    /* display: flex;
+    /* justify-content: center; */
+    align-items: center; 
+    margin-left: 10%;
+    max-height: max-content;
+    height: max-content;
+    background-color: rgb(134, 129, 129);
+  }
+    
+  /* table ,td,th{
+    border: 2px solid rgb(13, 13, 13);
+    /* width: 1230px; */
+    /* height: auto; */
+
+    
+  th {
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .all{
+    color: rgb(240, 12, 12);
+  }

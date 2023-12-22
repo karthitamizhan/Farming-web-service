@@ -1,0 +1,93 @@
+
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800");
+
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span {
+  font-weight: 500;
+  font-family: "Fira Sans", sans-serif;
+}
+
+label{
+    font-size: 20px;
+    color: antiquewhite;
+    font-weight: bold;
+    text-align: right;
+  
+      display: inline-block;
+      width: 150px;
+      text-align: left;
+      
+  
+}
+
+.form-control:focus {
+  border-color: #167bff;
+  box-shadow: none;
+}
+
+
+
+.custom-control-label {
+  font-weight: 100;
+  color: red;
+}
+
+.forgot-password,
+.forgot-password a {
+  text-align: right;
+  font-size: 20px;
+  padding-top: 10px;
+  color: #7f7d7d;
+  margin: 0;
+}
+
+.forgot-password a {
+  color: #167bff;
+}
+.form{
+    width: 1230px;
+    background-color: rgb(71, 67, 67);
+    /* padding: 10px 0px 10px 0px; */
+    margin-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-right: 10%;
+    /* color: antiquewhite; */
+    max-height: max-content;
+    height: max-content;
+    text-align: center;
+}
+
+.back{
+  float: right;
+  size: 10px;
+  margin-right: 5%;
+}
+ .post{
+  padding-bottom: 2%;
+ }
+.sell{
+  margin-left: 11%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
